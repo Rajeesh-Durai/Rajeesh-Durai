@@ -3,7 +3,7 @@
 - 👀 I’m interested in Developing an application
 - 🌱 I’m currently learning Dapper
 
-# Tech and Tools
+# Skills
 <span>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> 
@@ -28,3 +28,6 @@
 
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajeesh-Durai)](https://github.com/ryo-ma/github-profile-trophy)
+
+# Social Media
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rajeesh-durai)
