@@ -30,4 +30,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajeesh-Durai)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Social Media
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rajeesh-durai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeesh-durai)
