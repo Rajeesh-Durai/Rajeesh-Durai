@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajeesh-Durai
 - 👀 I’m interested in Developing an application
 - 🌱 I’m currently learning Dapper
-
+<ins>text</ins>
 <span>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> 
@@ -18,9 +18,9 @@
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
 </span>
-
+<ins>text</ins>
 ![Rajeesh-Durai's Stats](https://github-readme-stats.vercel.app/api?username=Rajeesh-Durai&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
 ![Rajeesh-Durai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajeesh-Durai&theme=slateorange&hide_border=true)
 ![Rajeesh-Durai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeesh-Durai&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
-
+<ins>text</ins>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajeesh-Durai)](https://github.com/ryo-ma/github-profile-trophy)
