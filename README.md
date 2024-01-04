@@ -23,4 +23,4 @@
 ![Rajeesh-Durai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajeesh-Durai&theme=slateorange&hide_border=true)
 ![Rajeesh-Durai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeesh-Durai&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rajeesh-Durai&column=3&margin-w=15&margin-h=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rajeesh-Durai)](https://github.com/ryo-ma/github-profile-trophy)
